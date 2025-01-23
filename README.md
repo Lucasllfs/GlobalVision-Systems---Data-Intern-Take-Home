@@ -16,16 +16,16 @@ The Global Vision Case Analysis Project leverages data analytics and visualizati
 ## Technologies Used
 - **Programming Language**: Python
 - **Data Analysis**: Pandas, NumPy
-- **Visualization Tools**: Matplotlib, Seaborn, Dash
+- **Visualization Tools**: Matplotlib, Seaborn 
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/global-vision-case-analysis.git
+   git clone https://github.com/yourusername/GlobalVision-Systems-Data-Intern-Take-Home.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd global-vision-case-analysis
+   cd GlobalVision-Systems-Data-Intern-Take-Home
    ```
 3. Install the required dependencies:
    ```bash
@@ -39,7 +39,6 @@ The Global Vision Case Analysis Project leverages data analytics and visualizati
      ```bash
      python src/data_processing.py
      ```
-     This step generates the `aggregated_results.csv` file required for subsequent scripts.
    - **Data Visualization**:
      ```bash
      python src/data_visualization.py
