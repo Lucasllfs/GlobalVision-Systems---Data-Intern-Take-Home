@@ -21,11 +21,11 @@ The Global Vision Case Analysis Project leverages data analytics and visualizati
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GlobalVision-Systems-Data-Intern-Take-Home.git
+   git clone https://github.com/yourusername/GlobalVision-Systems-Data-Intern-Take-Home-lucas.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd GlobalVision-Systems-Data-Intern-Take-Home
+   cd GlobalVision-Systems-Data-Intern-Take-Home-lucas
    ```
 3. Install the required dependencies:
    ```bash
